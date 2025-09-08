@@ -13,7 +13,7 @@ The files should be run in the following order:
 2. Train a neural network policy
    ```python train_model.py```
 3. Test your trained robot
-   ```python test_model.py
+   ```python test_model.py```
 
 You may do this by directly running the bash script
 ```./bash.sh```
